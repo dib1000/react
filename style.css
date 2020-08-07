@@ -1,0 +1,21 @@
+body { }
+.question {
+  font-style: bold;
+  color: black;
+  border-color: #ff0000;
+  border-style: dashed double dashed double;
+  border-radius: 5px;
+}
+
+.container {
+    border-bottom-style: solid;
+    border-color: black;
+}
+
+.img {
+ border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 600px;
+  height: 450px;
+}
